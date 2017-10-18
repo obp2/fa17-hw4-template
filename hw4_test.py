@@ -37,7 +37,7 @@ class tester(unittest.TestCase):
 	def test_happy_numbers(self):
 		self.assertEquals(happy_numbers(8), 2468 // 1234)
 		self.assertEquals(happy_numbers(15), 4)
-		self.assertEquals(happy_numbers(10**5), 14376)
+		self.assertEquals(happy_numbers(10**5), 14377)
 
 if __name__ == "__main__":
         unittest.main(module=__name__, buffer=True, exit=False)
