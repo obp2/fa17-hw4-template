@@ -1,0 +1,31 @@
+GRADE REPORT for repo fa17-hw4-template
+
+Total points earned: 0
+
+Detailed test results:
+tester_alphabet_finder/_given: Failed
+tester_alphabet_finder/long: Failed
+tester_alphabet_finder/more: Failed
+tester_anagram_of_palindrome/_given: Failed
+tester_anagram_of_palindrome/long: Failed
+tester_anagram_of_palindrome/more: Failed
+tester_anagram_of_palindrome/vacuous: Failed
+tester_count_anagrams/_given: Failed
+tester_count_anagrams/long_elements: Failed
+tester_count_anagrams/long_uniq: Failed
+tester_count_anagrams/more: Failed
+tester_count_anagrams/vacuous: Failed
+tester_happy_number/_given: Failed
+tester_happy_number/iftrs: Failed
+tester_happy_number/incluse: Failed
+tester_happy_number/more_1: Failed
+tester_happy_number/more_large: Failed
+tester_is_unique/_given: Failed
+tester_is_unique/longer: Failed
+tester_is_unique/more: Failed
+tester_is_unique/vacuous: Failed
+tester_reverse_dictionary/_given: Failed
+tester_reverse_dictionary/long: Failed
+tester_reverse_dictionary/more: Failed
+tester_reverse_dictionary/nested_objects: Failed
+tester_reverse_dictionary/self_loop: Failed
